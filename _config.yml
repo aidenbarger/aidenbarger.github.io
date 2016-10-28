@@ -1,8 +1,8 @@
-title: Intro to Javascript
-author: Bennington People
-email: jacksonmoore@bennington.edu
+title: Aiden's Website
+author: Aiden Barger
+email: aidenbarger@bennington.edu
 description: > # this means to ignore newlines until "baseurl:"
-  Site for Intro to Javascript, Bennington College, Fall 2016
+  Site for Aiden's Website, Bennington College, Fall 2016
 baseurl: "/minima"
 
 # Build settings
