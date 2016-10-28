@@ -3,3 +3,6 @@ body {
     font-family: cursive;
     font-size: 20px;
 }
+a{font-size:25px; color:purple;}
+a:visited{color:tan;}
+a:hover{font-size:30px; color:red;}
