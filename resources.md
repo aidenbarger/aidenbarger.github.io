@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Resources
-permalink: <a href="https://aidenbarger.github.io/minima/resources/" align="right" />
+permalink: /resources/
 ---
 
 ###More Art and Writing to See
