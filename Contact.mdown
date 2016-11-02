@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Contact
-permalink: <a href="https://aidenbarger.github.io/contact" align="middle" />
+permalink: /contact/
 ---
 
 ###Contact Information
