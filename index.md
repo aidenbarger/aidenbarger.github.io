@@ -3,7 +3,7 @@ layout: home
 ---
 ***
 
-###<center>Art/Writing</center>
+<center>Art/Writing</center>
 
 <p><h1>Prints</h1></p>
 <p><img src="http://68.media.tumblr.com/3a8b93025468d0bdcc0dd0b13383033f/tumblr_o6q0gtid4Q1vra8qno1_1280.jpg" width="300" height="600" /></p>
