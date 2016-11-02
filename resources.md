@@ -6,4 +6,4 @@ permalink: /resources/
 
 ###More Art and Writing to See:
 -[Art](http://draconicace.tumblr.com/tagged/aidensart)
--[Writing](http://draconicace.tumblr.com/tagged/aidenswriting)
+-[Writing](htp://draconicace.tumblr.com/tagged/aidenswriting)
