@@ -3,7 +3,7 @@ author: Aiden Barger
 email: aidenbarger@bennington.edu
 description: > # this means to ignore newlines until "baseurl:"
   Site for Aiden's Website, Bennington College, Fall 2016
-baseurl: "/minima"
+#baseurl: "/minima"
 
 # Build settings
 markdown: kramdown
