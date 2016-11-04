@@ -8,9 +8,9 @@ $(document).ready(function(){
 		function(){
 			$('h3').css('display', 'none');
 		});
-	$('h1').mousemove(
+	$('h3').mousemove(
 		function(){
-			$('h1').css('position', 'relative');
-			$('h1').css('left', '30px');
+			$('h3').css('position', 'relative');
+			$('h3').css('left', '30px');
 		});
 });
