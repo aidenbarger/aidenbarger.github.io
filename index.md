@@ -5,7 +5,7 @@ layout: home
 
 <center>Art/Writing</center>
 
-<p><h1>Prints</h1></p>
+<p><h3>Prints</h3></p>
 <p><img src="http://68.media.tumblr.com/3a8b93025468d0bdcc0dd0b13383033f/tumblr_o6q0gtid4Q1vra8qno1_1280.jpg" width="300" height="600" /></p>
 <p><img src="http://68.media.tumblr.com/c3d003f14dc8b9838df7dfc5f2f5e7fc/tumblr_o6q0gtid4Q1vra8qno5_1280.jpg" width="300" height="600" /></p>
 <p><img src="http://68.media.tumblr.com/9fd583ee75d3de844dc79d6b3a642517/tumblr_o6q0gtid4Q1vra8qno7_1280.jpg" width="500" height="400" /></p>
