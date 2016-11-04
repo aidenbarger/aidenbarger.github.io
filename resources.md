@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Resources
-permalink: <a href="https://aidenbarger.github.io/resources/">Resources<a/>
+permalink: /resources/
 ---
 
 <h1>More Art and Writing to See</h1><br>
