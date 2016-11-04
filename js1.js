@@ -21,4 +21,12 @@ $(document).ready(function(){
 		function(){
 			$('img').css('opacity', '1.0');
 		});
+	$('h2').mouseenter(
+		function(){
+			$('h2').css('opacity', '1.0');
+		});
+	$('h2').mouseleave(
+		function(){
+			$('h2').css('opacity', '0.0');
+		});
 });
