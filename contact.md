@@ -4,6 +4,6 @@ title: Contact
 permalink: /contact/
 ---
 
-###Contact Information
+### Contact Information
 <p>aidenbarger@bennington.edu</p>
 <p>(828)499-1405</p>
