@@ -13,4 +13,8 @@ $(document).ready(function(){
 			$('h3').css('position', 'relative');
 			$('h3').css('left', '30px');
 		});
+	$('img').hover(
+		function(){
+			$('img').css('opacity', '0.5');
+		});
 });
