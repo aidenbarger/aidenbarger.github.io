@@ -8,7 +8,7 @@ layout: home
 <p><h1>Prints</h1></p>
 <img src="http://68.media.tumblr.com/3a8b93025468d0bdcc0dd0b13383033f/tumblr_o6q0gtid4Q1vra8qno1_1280.jpg" width="300" height="600" />
 <img src="http://68.media.tumblr.com/c3d003f14dc8b9838df7dfc5f2f5e7fc/tumblr_o6q0gtid4Q1vra8qno5_1280.jpg" width="300" height="600" align="right"/>
-<p><img src="http://68.media.tumblr.com/9fd583ee75d3de844dc79d6b3a642517/tumblr_o6q0gtid4Q1vra8qno7_1280.jpg" width="600" height="400" /></p>
+<p><img src="http://68.media.tumblr.com/9fd583ee75d3de844dc79d6b3a642517/tumblr_o6q0gtid4Q1vra8qno7_1280.jpg" width="500" height="400" /></p>
 <img src="http://68.media.tumblr.com/506d2518ce46910703c44caf8bf0b4fe/tumblr_o6q07z2aNG1vra8qno1_1280.jpg" width="500" height="500" align="right"/>
 <p><img src="http://68.media.tumblr.com/97e1c48b542d6514067f5d86c07b91e2/tumblr_o6q07z2aNG1vra8qno2_1280.jpg" width="600" height="400" /></p>
 <img src="http://68.media.tumblr.com/58b0c53d511de68235b75e2ecf1e3a66/tumblr_o6q07z2aNG1vra8qno3_1280.jpg" width="600" height="400" align="right"/>
