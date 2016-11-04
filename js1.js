@@ -4,9 +4,9 @@ $(document).ready(function(){
 			$('h3').css('background-color', '#FFFF00');
 		}
 		);
-	$('a').click(
+	$('h3').click(
 		function(){
-			$('a').css('display', 'none');
+			$('h3').css('display', 'none');
 		});
 	$('body').mousemove(
 		function(){
