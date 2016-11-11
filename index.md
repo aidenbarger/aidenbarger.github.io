@@ -6,7 +6,7 @@ layout: home
 <center>Art/Writing</center>
 
 <p><h3><center>Prints</center></h3></p>
-<div style="text-align: center"><p><img src="http://68.media.tumblr.com/3a8b93025468d0bdcc0dd0b13383033f/tumblr_o6q0gtid4Q1vra8qno1_1280.jpg" width="600" height="1200" /></p></div>
+<div style="text-align: center"><p><img src="http://68.media.tumblr.com/3a8b93025468d0bdcc0dd0b13383033f/tumblr_o6q0gtid4Q1vra8qno1_1280.jpg" width="600" height="1200" /><h2>Skull Print One</h2></p></div>
 <div style="text-align: center"><p><img src="http://68.media.tumblr.com/c3d003f14dc8b9838df7dfc5f2f5e7fc/tumblr_o6q0gtid4Q1vra8qno5_1280.jpg" width="600" height="1200" /></p></div>
 <div style="text-align: center"><p><img src="http://68.media.tumblr.com/9fd583ee75d3de844dc79d6b3a642517/tumblr_o6q0gtid4Q1vra8qno7_1280.jpg" width="1000" height="800" /></p></div>
 <div style="text-align: center"><p><img src="http://68.media.tumblr.com/506d2518ce46910703c44caf8bf0b4fe/tumblr_o6q07z2aNG1vra8qno1_1280.jpg" width="1000" height="1000" /></p></div>
