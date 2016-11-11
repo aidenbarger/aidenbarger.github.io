@@ -59,16 +59,10 @@ $(document).ready(function(){
 				// change the css value to color w new saturation.
 				$('body').css('background-color', cssValue);
 
-			var button = document.createElement("button");
-				button.innerHTML = "Hue Value";
-
-			var body = document.getElementsByTagName("body")[0];
-				body.appendChild(button);
-
-				button.addEventListener ("hover", function() {
+			$('button').hover(
+				function(event){
 					$('body').css('background-color', hueValue);
 				});
-
 
 			if(brightnessValue >= 50){
 				$('body').css('color', 'black');
