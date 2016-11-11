@@ -38,8 +38,8 @@ $(document).ready(function(){
 
 	var yPosition, screenHeight, saturationRatio, saturationValue, 
 		cssValue, brightnessValue, hueValue, xPosition, screenWidth, brightnessRatio;
+		
 		brightnessValue = 50;
-	// when user clicks on page
 
 	$('body').click(
 		function(event){
@@ -59,10 +59,16 @@ $(document).ready(function(){
 				// change the css value to color w new saturation.
 				$('body').css('background-color', cssValue);
 
-			/*$('hueButton').hover(
-				function(){
-					$('body').css('hueValue', )
-				})*/
+			var button = document.createElement("button");
+				button.innerHTML = "Hue Value";
+
+			var body = document.getElementsByTagName("body")[0];
+				body.appendChild(button);
+
+				button.addEventListener ("hover", function() {
+					$('body').css('background-color', hueValue);
+				});
+
 
 			if(brightnessValue >= 50){
 				$('body').css('color', 'black');
