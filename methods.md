@@ -28,8 +28,6 @@ var characters = {
 		// style it with css?
 	},
 
-	// characters not appearing
-
 	disappear: function() {
 		$('.character').hide();
 	},
@@ -58,8 +56,12 @@ var characters = {
 
 }
 characters.appear(['•','◊','∆']);
-characters.newColor();
-characters.newSize();
+$('body').click( function(event) {
+	characters.move(event.pageX, event.pageY)
+	characters.newColor();
+	characters.newSize();
+})
+
 
 
 </script>
