@@ -1,3 +1,9 @@
+---
+layout: page
+title: Methods
+permalink: /methods/
+---
+
 <script>
 
 var yPosition, screenHeight, saturationRatio, saturationValue, 
@@ -36,7 +42,7 @@ var characters = {
 		);
 	},
 
-	/*newColor: function(characters) {
+	newColor: function(characters) {
 		newColor = Math.random() * 360;
 				// embed saturation value in css rule
 				cssValue = 'hsl'(+hueValue+, +saturationValue+'%', + (brightnessValue)%100 +'%');
@@ -48,12 +54,12 @@ var characters = {
 		newSize = (Math.random() + 50) * 350 + '%';
 			cssValue = 'hsl'(+hueValue+, +saturationValue+'%', (brightnessValue)%100 + '%');
 			$('body').css('characters', cssValue);
-	}*/
+	}
 
 }
 characters.appear(['•','◊','∆']);
-//characters.newColor();
-//characters.newSize();
+characters.newColor();
+characters.newSize();
 
 
 </script>
