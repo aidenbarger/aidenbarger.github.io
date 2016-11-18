@@ -40,7 +40,7 @@ var characters = {
 		);
 	},
 
-	newColor: function(characters) {
+	newColor: function() {
 		newColor = Math.random() * 360;
 				// embed saturation value in css rule
 				cssValue = 'hsl('+hueValue+',' +saturationValue+'%,' + (brightnessValue)%100 +'%)';
@@ -48,7 +48,7 @@ var characters = {
 				$('body').css('characters', cssValue);
 	},
 
-	newSize: function(characters) {
+	newSize: function() {
 		newSize = (Math.random() + 50) * 350 + '%';
 			var ranSize = 50 + Math.random() * 350 + "%)";
 			$('body').css('characters', cssValue);
@@ -70,5 +70,6 @@ $('body').click( function(event) {
 .character {
 	position: absolute;
 	font-size: 60px;
+	z-index: 2;
 }
 </style>
