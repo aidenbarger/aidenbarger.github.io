@@ -51,7 +51,7 @@ var characters = {
 	newSize: function() {
 		newSize = (Math.random() + 50) * 350 + '%';
 			var ranSize = 50 + Math.random() * 350 + "%)";
-			$(.character).css('font-size', cssValue);
+			$('.character').css('font-size', cssValue);
 	}
 
 }
