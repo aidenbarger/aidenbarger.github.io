@@ -51,13 +51,10 @@ var characters = {
 			cssValue = 'hsl'(+hueValue+, +saturationValue+'%', (brightnessValue)%100 + '%');
 			$('body').css('characters', cssValue);
 	}
-}
 
+}
 characters.appear(['•','◊','∆']);
-$('body').click( function(event) {
-	alert(event.pageX + " " + event.pageY);
-	characters.move(event.pageX, event.pageY)
-})
+
 
 </script>
 
