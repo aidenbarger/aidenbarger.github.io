@@ -47,7 +47,7 @@ var characters = {
 
 	characters.newSize();
 	newSize: function(characters) {
-		newSize = (Math.random() + 50) * 350 + "%";
+		newSize = (Math.random() + 50) * 350 + '%';
 			cssValue = 'hsl'(+hueValue+, +saturationValue+'%', (brightnessValue)%100 + '%');
 			$('body').css('characters', cssValue);
 	}
