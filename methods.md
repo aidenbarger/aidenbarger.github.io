@@ -13,7 +13,7 @@ var characters = {
 
 		// select random integer from 0-2
 		var dart = Math.random();
-		dart = Math.floor(dart* menu.length );
+		dart = Math.floor(dart * menu.length );
 		var character = menu[dart];
 
 		var idName = 'char-' + this.count++;
