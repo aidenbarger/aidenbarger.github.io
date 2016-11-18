@@ -45,14 +45,14 @@ var characters = {
 	newColor: function(characters) {
 		newColor = Math.random() * 360;
 				// embed saturation value in css rule
-				cssValue = 'hsl'(+hueValue+, +saturationValue+'%', + (brightnessValue)%100 +'%');
+				cssValue = 'hsl'(+hueValue+',' +saturationValue+'%,' + (brightnessValue)%100 +'%');
 				// change the css value to color w new saturation.
 				$('body').css('characters', cssValue);
 	},
 
 	newSize: function(characters) {
 		newSize = (Math.random() + 50) * 350 + '%';
-			cssValue = 'hsl'(+hueValue+, +saturationValue+'%', (brightnessValue)%100 + '%');
+			cssValue = 'hsl'(+hueValue+',' +saturationValue+'%,' (brightnessValue)%100 + '%');
 			$('body').css('characters', cssValue);
 	}
 
