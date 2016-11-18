@@ -10,4 +10,4 @@ markdown: kramdown
 theme: minima
 exclude: 
   - Gemfile
-  - Gemfile/lock
+  - Gemfile.lock
