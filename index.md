@@ -16,3 +16,19 @@ layout: home
 <div style="text-align: center"><p><img src="http://68.media.tumblr.com/76c11c200f68e6cc7b407fd53e5c21e3/tumblr_o6q07z2aNG1vra8qno5_1280.jpg" width="600" height="1200" /></p></div>
 <div style="text-align: center"><p><img src="http://68.media.tumblr.com/c43e7c3479eaefff45faff44b03c5505/tumblr_o6q07z2aNG1vra8qno6_1280.jpg" width="600" height="1200" /></p></div>
 
+<<<<<<< HEAD
+=======
+### Student Websites
+- [Hoanh An](https://hoanhan101.github.io)
+- [Aiden Barger](https://aidenbarger.github.io)
+- [Javier Lopez Guevara](https://jlguevara-bennington.github.io)
+- [Matt Jones](https://matthewbennington.github.io)
+- [Nush Laywhyee](https://nushlaywhyee.github.io)
+- [Syd Miller](https://sydmiller.github.io)
+- [Anna Monteleone](https://theinternetisfake.github.io)
+- [James Mulligan](https://jpmulligan49.github.io)
+- [Christiane Swenson](https://xianeswenson.github.io)
+- [Iliyana Yotova](https://iyotova95.github.io)
+- [Eli Zeltzer](https://ejzeltzer.github.io)
+- [Zach Zimmerle](https://zzimmerle.github.io/zz)
+>>>>>>> bennington-college/master

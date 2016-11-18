@@ -2,8 +2,13 @@ title: Aiden Barger
 author: Aiden Barger
 email: aidenbarger@bennington.edu
 description: > # this means to ignore newlines until "baseurl:"
+<<<<<<< HEAD
   Site for Aiden's Website, Bennington College, Fall 2016
 #baseurl: "/minima"
+=======
+  Site for Intro to Javascript, Bennington College, Fall 2016
+# baseurl: "/minima"
+>>>>>>> bennington-college/master
 
 # Build settings
 markdown: kramdown
