@@ -22,6 +22,18 @@ var characters = {
 		// style it with css?
 	},
 
+	disappear: function() {
+		$('.character').hide();
+	},
+	move: function(destX, destY, count) {
+		var whichChar = Math.floor(Math.random()*characters.count);
+		alert(characters.count);
+		$('.character').animate(
+			{ top: destY, left: destX },
+		  	3000
+		);
+	},
+
 	characters.newColor();
 	newColor: function(characters) {
 		newColor = Math.random() * 360;
