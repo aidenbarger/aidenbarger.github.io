@@ -45,13 +45,13 @@ var characters = {
 				// embed saturation value in css rule
 				cssValue = 'hsl('+hueValue+',' +saturationValue+'%,' + (brightnessValue)%100 +'%)';
 				// change the css value to color w new saturation.
-				$('body').css('characters', cssValue);
+				$('.character').css('color', cssValue);
 	},
 
 	newSize: function() {
 		newSize = (Math.random() + 50) * 350 + '%';
 			var ranSize = 50 + Math.random() * 350 + "%)";
-			$('body').css('characters', cssValue);
+			$(.character).css('font-size', cssValue);
 	}
 
 }
