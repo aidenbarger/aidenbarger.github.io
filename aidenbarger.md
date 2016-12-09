@@ -6,15 +6,15 @@ permalink: /aidenbarger/
 <ul>
 	<li id="new_image">New Image</li>
 </ul>
-<div id="aiden">
+<div id="aidenbarger">
     
 
 </div>
 <script type="image/javascript">
-	$("#new_image").mousedown(
+	$("#new_image").click(
 		function() {
 			var newimage = Object.create(content.image);
-			newimage.define(prompt('enter your image'));
+			newimage.define(prompt('enter image url'));
 			newimage.place();
 		}
 	);
