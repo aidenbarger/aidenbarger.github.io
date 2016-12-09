@@ -1,3 +1,9 @@
+---
+layout: page
+title: Pool
+permalink: /pool/
+---
+
 // declare namespace object
 var content = {};
 
@@ -37,4 +43,4 @@ content.image = {
 
         this.element.image(newImage);
     }
-}
+} 
